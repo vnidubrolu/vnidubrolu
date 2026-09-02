@@ -1,6 +1,6 @@
 ## Hey there, my name is Vinmayi 👋
 
-🔊 My name is pronounced **vin-MAH-yee**.
+🔊 My name is pronounced **vin-muh-yee**.
 
 I'm a software developer who enjoys solving problems, understanding the **"why"**, and building practical solutions.
 
